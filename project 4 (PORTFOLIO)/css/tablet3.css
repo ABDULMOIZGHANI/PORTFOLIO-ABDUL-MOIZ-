@@ -1,0 +1,58 @@
+.container {
+    display: grid;
+    background-color: #171A23;
+    /* grid-gap: 1rem; */
+    grid-template-areas:
+        'navbar navbar navbar navbar'
+        'section section section section'
+        'aside aside aside aside'
+        'section2 section2 section2 section2'
+        'aside2 aside2 aside2 aside2'
+        'services services services services'
+        'main-service main-service main-service main-service'
+        'projects projects projects projects'
+        'main-project main-project main-project main-project'
+        'main-project main-project main-project main-project'
+        'initial-test initial-test initial-test initial-test'
+        'testimonial testimonial testimonial testimonial'
+        'contact contact contact contact'
+        'footer footer footer footer'
+        /* 'foot-left foot-left foot-right foot-right' */
+}
+
+#section {
+    grid-area: section;
+    width: 100%;
+}
+
+#top-aside {
+    /* margin-right: 0px; */
+    margin-top: -20px;
+    margin-left: 0px;
+}
+
+#aside img {
+    height: 470.55px;
+    display: block;
+    margin: auto;
+}
+
+
+#aside2 {
+    grid-area: aside2;
+    margin-right: 0px;
+    width: 100%;
+}
+
+#aside2 img {
+    /* margin-top: 93px; */
+    /* margin-left: 73px; */
+    margin: 50px auto;
+    display: block;
+}
+
+#services {
+    margin-top: -37px;
+    margin-bottom: 39px;
+}
+
