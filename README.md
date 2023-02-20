@@ -23,4 +23,4 @@ To use this portfolio website, simply clone or download the repository, and open
 ## Contact
 Feel free to reach out to me if you have any questions or would like to work together.
 
-Email: (ABDUL MOIZ)[babamoiz289@gmail.com]
+Email: [ABDUL MOIZ](babamoiz289@gmail.com)
