@@ -1,0 +1,26 @@
+
+.logo img {
+    height: 45.02px;
+    width: 340.8px;
+    margin: 25px 0px 0px 10px;
+    /* margin: 24px auto; */
+}
+
+#top-section {
+    margin-left: 10px;
+    margin-top: 1px;
+}
+
+#aside img {
+    height: 440.55px;
+    display: block;
+    margin: auto;
+}
+
+.project-images {
+    width: 65%;
+    height: 78%;
+    display: block;
+    margin: 5px auto;
+    border-radius: 12px;
+}

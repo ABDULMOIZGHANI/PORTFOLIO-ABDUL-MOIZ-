@@ -1,0 +1,44 @@
+#main-project {
+    grid-area: main-project;
+    display: flex;
+    flex-direction: column;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.project-images {
+    width: 50%;
+    height: 78%;
+    display: block;
+    margin: 5px auto;
+    border-radius: 12px;
+}
+
+#man1,
+#man2,
+#man3,
+#man4 {
+    width: 97%;
+    margin-top: 12px;
+}
+
+#initial-test {
+    grid-area: initial-test;
+    margin: 12px 10px -36px 10px;
+}
+
+#testimonial {
+    grid-area: testimonial;
+    margin: 10px 10px 108px 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+.main section h1{
+    letter-spacing: -0.4px;
+}
+
+.UI {
+    margin-top: 0px;
+    letter-spacing: 1px;
+}
