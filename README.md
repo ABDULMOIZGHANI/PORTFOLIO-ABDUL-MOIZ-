@@ -1,4 +1,4 @@
-![ABDUL MOIZ](https://github.com/ABDULMOIZGHANI/PORTFOLIO-ABDUL-MOIZ-/blob/main/project%204%20(PORTFOLIO)/images/LOGO.png)
+![ABDUL MOIZ](https://github.com/ABDULMOIZGHANI/PORTFOLIO-ABDUL-MOIZ-/blob/main/PORTFOLIO/images/LOGO.png)
 
 # PORTFOLIO-ABDUL-MOIZ-
 This is my personal portfolio website, showcasing my projects and skills.
