@@ -1,0 +1,63 @@
+.logo img {
+    height: 55.02px;
+    width: 455.8px;
+    margin: 30px 0px 0px 10px;
+}
+
+.nav {
+    display: none;
+}
+
+#top-section {
+    margin-left: 10px;
+    margin-top: 30px;
+}
+
+#section2 {
+    margin: 40px 0px 0px 10px;
+}
+
+#services {
+    grid-area: services;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#main-service {
+    grid-area: main-service;
+    display: flex;
+    margin: 0px 10px 0px 10px;
+}
+
+#projects {
+    grid-area: projects;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#main-project {
+    grid-area: main-project;
+    display: flex;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#initial-test {
+    grid-area: initial-test;
+    margin: 30px 10px 0px 10px;
+}
+
+#testimonial {
+    grid-area: testimonial;
+    margin: 0px 10px 108px 10px;
+    display: flex;
+}
+
+#foot-left {
+    margin-left: 10px;
+    width: 33%;
+}
+
+#message {
+    margin: 3px 10px 20px 0px;
+}
